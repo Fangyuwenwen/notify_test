@@ -1,0 +1,9 @@
+Flask
+bs4
+gunicorn
+line-bot-sdk
+dialogflow
+firebase_admin
+requests
+flask_restful
+liffpy
