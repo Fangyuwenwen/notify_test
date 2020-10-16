@@ -1,9 +1,10 @@
-Flask
+Flask==1.0.2
 bs4
 gunicorn
 line-bot-sdk
 dialogflow
 firebase_admin
-requests
-flask_restful
+requests==2.22.0
+flask_restful==0.3.6
 liffpy
+flask-cors==3.0.6
